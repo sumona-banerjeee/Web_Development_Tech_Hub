@@ -34,8 +34,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - TeachHub utilizes HTML, CSS, and JavaScript to create a dynamic web application.
-- The project structure and design were inspired by [insert inspirations here].
-- Special thanks to [insert names or organizations] for their valuable feedback and contributions.
+
 
 ## Author:
 Sumona Banerjee
